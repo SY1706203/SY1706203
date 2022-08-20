@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # I'm Liu Zhuang 👋
 
-- 🔭 I’m currently studying on **Beihang University**
+- 🔭 I’m currently a **PhD student** at **Beihang University**
 - 🌱 I’m currently learning **Recommender Systems**
 - 👯 I’m currently studying in **Beijing, China**
 - 🤔 I love **Reading, Coding**
