@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **SY1706203/SY1706203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# I'm Liu Zhuang 👋
 
-# Click: [SY1706203.github.io](https://SY1706203.github.io/)
+- 🔭 I’m currently studying on **Beihang University**
+- 🌱 I’m currently learning **Recommender Systems**
+- 👯 I’m currently studying in **Beijing, China**
+- 🤔 I love **Reading, Coding**
+- 💬 Ask me about **Recommender Systems, Deep Learning and my projects**
+- 📫 How to reach me: **liuzhuang@buaa.edu.cn**
+- 😄 You may like [SY1706203.github.io](https://SY1706203.github.io/)
+- ⚡ Fun fact: **traveling**
+
 
 # 我的个人主页被访问次数：
 ![Visitor Count](https://profile-counter.glitch.me/SY1706203/count.svg)
 
-# 常用语言占比：
+# About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SY1706203&layout=compact)](https://github.com/SY1706203/github-readme-stats)
 
-# 仓库状态统计：
 ![SY1706203's GitHub stats](https://github-readme-stats.vercel.app/api?username=SY1706203&show_icons=true&theme=tokyonight)
