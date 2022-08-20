@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SY1706203&layout=compact)](https://github.com/SY1706203/github-readme-stats)
 
 ![SY1706203's GitHub stats](https://github-readme-stats.vercel.app/api?username=SY1706203&show_icons=true&theme=tokyonight)
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
