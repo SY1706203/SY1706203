@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 - 😄 You may like [SY1706203.github.io](https://SY1706203.github.io/)
 - ⚡ Fun fact: **traveling**
 
-
-# 我的个人主页被访问次数：
+#### Thanks for visiting :heart:
 ![Visitor Count](https://profile-counter.glitch.me/SY1706203/count.svg)
 
 # About My Github
