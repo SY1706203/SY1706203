@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Recommender Systems, Self-Supervised Learning**
 - 👯 I’m currently studying in **Beijing, China**
 - 🤔 I love **Reading, Coding**
-- 💬 Ask me about **Recommender Systems, Deep Learning and my projects**
+- 💬 Ask me about **Recommender Systems, Machine Learning and my projects**
 - 📫 How to reach me: **liuzhuang@buaa.edu.cn**
 - 😄 You may like [SY1706203.github.io](https://SY1706203.github.io/)
 - ⚡ Fun fact: **traveling**
